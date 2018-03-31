@@ -2,7 +2,7 @@
 
 Skeleton of an Corporate Application that follows Domain Driven Design architectural pattern
 
-## Description (Porgueese)
+## Description (Porguese)
 
 Arquitetura de Sistemas Corporativos é um tema muito menos explorado do que ASP.NET MVC 5 e nem por isso é menos importante (na verdade é bem mais), neste projeto são estabelecidas normas arquiteturais do padrão DDD, utilizando ASP.NET MVC 5+, Entity Framework, AutoMapper, IoC com Unity e muitas estratégias para criar uma arquitetura modelo e totalmente responsável.
 
